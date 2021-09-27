@@ -1,0 +1,58 @@
+
+html {
+    background-color:lightblue;
+    font-family: 'Signika', sans-serif;
+    font-size: 10px;
+}
+body {
+    background-color:lightcoral;
+    width: 600px;
+    margin: 0 auto;
+    border: 10px;
+    
+}
+img {
+    display: block;
+    width:400px;
+    height:300px;
+    height:auto;
+    margin: 0 auto;
+    
+}
+h1{
+    font-size: 60px;
+    text-align: center  ;
+}
+p,li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    
+
+}
+.watermelon {
+    color:teal;
+    padding:20px;
+}
+.space {
+    color: rgb(88, 145, 160);
+    padding:10px;
+}
+.bold {
+   font-weight: bold;
+   color:red;
+}
+p.bold{
+    text-indent: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration:overline;
+}
+li.bold {
+    font-style: italic;
+}
+div.coolbox{
+    margin: 10px;
+    padding: 20px;
+    border: lightblue dotted;
+}
